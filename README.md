@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Apex</h1>
-<h3 align="center">The Predator of the Apex Predators</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamapex" alt="iamapex" /></a> </p>
 
 - 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://iamapexh.com/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://apexh.dev/)
 
 - ⚡ Fun fact **I think i am not Funny**
 
